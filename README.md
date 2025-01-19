@@ -9,7 +9,7 @@ Instruction
 
 >Make sure Python is installed.
 
->Update your apps
+>Install and Update apps
 
 
 
